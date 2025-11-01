@@ -25,6 +25,6 @@ it('Registro 1', function() {
   cy.get('[data-cy="input-confirmar-email"]').type('vero.test@mailinator.com') 
   cy.get('[data-cy="input-password"]').type('vero123')
   cy.get('[data-cy="input-repetir-password"]').type('vero123')
-  cy.get('[data-cy="btn-registrarse"]').type('vero123')
+  cy.get('[data-cy="btn-registrarse"]').click()
 })
 })
