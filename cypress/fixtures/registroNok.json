@@ -1,0 +1,13 @@
+{
+    "nombre":"",
+    "apellido":"",
+    "telefono": "3515390255",
+    "dni": "33303045",
+    "provincia": "Córdoba",
+    "localidad": "Santa Rosa de Calamuchita",
+    "fechaNacimiento": "14/01/1987",
+    "email": "vero@gmail.com",
+    "password": "Test1234!",
+    "repetirPassword": "Test1234!"
+
+}
