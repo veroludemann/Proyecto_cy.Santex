@@ -1,0 +1,25 @@
+[
+    {
+    "id": 123456,
+    "titulo": "Concierto Mockeado",
+    "duracion": "",
+    "info": "Show especial",
+    "capacidad": 100,
+    "edad": "ATP",
+    "genero": "Concierto",
+    "lugarEvento": "Córdoba",
+    "precios": [
+        { "id": 1, "nombre": "General", "precio": "0", "capacidad": "100" }
+    ],
+    "imagen": "https://picsum.photos/300",
+    "estado": 1,
+    "fechasHorarios": [
+            {
+                "id": 1,
+                "fecha": "2030-12-31T21:00:00.000Z",
+                "horario": "21:00:00",
+                "eventoId": 123456
+            }
+        ]
+    }
+]
